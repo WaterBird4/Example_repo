@@ -25,5 +25,5 @@ This is a link to a website [link](google.com)
 [ ] checklist item 
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![screenshot of github](https://github.com/WaterBird4/Example_repo/blob/main/Screenshot%202023-05-23%20at%203.40.45%20PM.png)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/ET_h_9_cF9M)
 

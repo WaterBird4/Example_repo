@@ -5,6 +5,8 @@ This is an exmple of a plain text line
 
 # H1 header
 
+adding text to the first header
+
 ---
 
 ## H2 header
